@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: pink;
+    text-align: center;
+}
+
+main-content {
+    margin: 30px;
+    text-align: center;
+    color: black;   
+}
+
+#main-content h1 {
+    font: 40px Arial, Helvetica, sans-serif;
+    align-content: center;
+}
+
+#main-content p {
+    font:24px "Courier", Times, Georgia, serif;
+}
